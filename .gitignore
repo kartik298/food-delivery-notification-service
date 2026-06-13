@@ -1,0 +1,14 @@
+# Binaries
+service
+gateway
+consumer
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.env
+.idea/
+.vscode/
+*.swp
